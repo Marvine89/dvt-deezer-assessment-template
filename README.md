@@ -23,8 +23,12 @@ Be sure to follow best practices and to demonstrate the skills you've learnt to 
 
 <br />
 
-We encourage you to add more assets as necessary and to enhance content with colour and imagery, wherever it makes sense, so users may enjoy using your app.  This is equally important to us when reviewing your assessment.
+We encourage you to add more assets as necessary and to enhance content with colour and imagery, wherever it makes sense, so users may enjoy using your app. This is equally important to us when reviewing your assessment.
  
+<br />
+
+Please make sure that all unit tests are passing as this can affect your marking.
+
 <br />
 
 You can also deploy your application to a free hosting service such as Heroku or Github Page using CI/CD pipeline as bonus point.
