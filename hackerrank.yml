@@ -2,7 +2,7 @@ version: 1.0
 configuration:
   has_webserver: true
   scoring:
-    command: "npm test"
+    command: "npm run hacker-rank:test"
     files:
       - unit.xml
   ide_config:
@@ -11,4 +11,4 @@ configuration:
     project_menu:
       run: npm start
       install: npm install
-      test: npm test
+      test: npm run hacker-rank:test
