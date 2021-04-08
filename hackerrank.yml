@@ -10,7 +10,5 @@ configuration:
       - src/app/app.component.html
     project_menu:
       run: npm start
-      install:
-        - npm install -g @angular/cli
-        - npm install
+      install: npm install
       test: npm test
