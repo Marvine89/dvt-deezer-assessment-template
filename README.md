@@ -1,6 +1,11 @@
-# MusicdbAppAngular
+# DVT Assessment - Deezer Angular Application
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.1.
+### This is a boilerplate project for DVT Angular Assessment - Deezer Application. 
+<br/>
+
+> This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.1.
+
+<br/>
 
 ## Development server
 
