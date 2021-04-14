@@ -9,6 +9,6 @@ configuration:
     default_open_files:
       - src/app/app.component.html
     project_menu:
-      run: npm start
+      run: npm run hacker-rank:start
       install: npm install
       test: npm run hacker-rank:test
