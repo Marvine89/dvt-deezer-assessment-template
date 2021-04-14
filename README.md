@@ -27,7 +27,7 @@ We encourage you to add more assets as necessary and to enhance content with col
  
 <br />
 
-Please make sure that all unit tests are passing as this can affect your marking.
+Please make sure that all unit tests anf linting are passing as this can affect your marking.
 
 <br />
 
